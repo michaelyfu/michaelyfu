@@ -1,6 +1,6 @@
 ### Hi there 👋 My name is Michael Fu, and I'm currently studying Computer Science-Economics @ Brown, with a focus in AI/ML and Systems. Please feel free to reach out to me through my LinkedIn: https://www.linkedin.com/in/michaelyfu/
 
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/michaelyfu/langs)](https://githubtrends.io)
+[![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=michaelyfu)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **michaelyfu/michaelyfu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 My name is Michael Fu, and I'm currently studying Computer Science-Economics @ Brown, with a focus in AI/ML and Systems. Please feel free to reach out to me through my LinkedIn: https://www.linkedin.com/in/michaelyfu/
 
 <!--
 **michaelyfu/michaelyfu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
